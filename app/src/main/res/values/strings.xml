@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Background Services Google Application</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
